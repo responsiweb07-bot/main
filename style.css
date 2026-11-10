@@ -32,7 +32,6 @@ body{
     left: 50%;
     top: 18px;
     transform: translate(-50%);
-    border: none;
 }
 #backBtn{
     border: none;
