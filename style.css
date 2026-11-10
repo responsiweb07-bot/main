@@ -24,7 +24,7 @@ body{
 .topControl{
     width: 340px;
     height: 40px;
-    border: none;
+    border: 1px solid transparent;
     border-radius: 40px;
     display: flex;
     align-items: center;
