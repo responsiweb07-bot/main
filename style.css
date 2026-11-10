@@ -44,6 +44,7 @@ body{
     font-size: 26px;
     cursor: pointer;
     background-color: rgba(255, 255, 255, 0.212);
+    color: black;
 }
 #backBtn:hover{
     filter: brightness(2.3);
@@ -83,6 +84,7 @@ h1:hover{
     background-color: rgba(255, 255, 255, 0.212);
     position: absolute;
     right: 0;
+    color: black;
 }
 #closeBtn:hover{
     filter: brightness(2.3);
