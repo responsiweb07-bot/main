@@ -12,7 +12,7 @@ body{
     background-color: white;
 }
 .container{
-    width: 480px;
+    width: 380px;
     height: 680px;
     position: fixed;
     left: 50%;
@@ -22,7 +22,7 @@ body{
     border-radius: 40px;
 }
 .topControl{
-    width: 440px;
+    width: 340px;
     height: 40px;
     border: none;
     border-radius: 40px;
@@ -32,6 +32,7 @@ body{
     left: 50%;
     top: 18px;
     transform: translate(-50%);
+    border: none;
 }
 #backBtn{
     border: none;
@@ -90,7 +91,7 @@ h1:hover{
     color: white;
 }
 .content{
-    width: 460px;
+    width: 360px;
     height: 600px;
     background-color: brown;
     position: fixed;
